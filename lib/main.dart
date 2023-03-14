@@ -6,11 +6,11 @@ import 'package:coisas_de_nenem/screen/start.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyAppCoisasDeNenem());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MyAppCoisasDeNenem extends StatelessWidget {
+  const MyAppCoisasDeNenem({super.key});
 
   // This widget is the root of your application.
   @override
